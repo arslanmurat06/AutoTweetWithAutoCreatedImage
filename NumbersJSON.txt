@@ -1,0 +1,94 @@
+[
+  {
+    "Name": "ShowTV",
+    "Number": "+905362669002"
+  },
+  {
+    "Name": "ATV",
+    "Number": "+905051658888"
+  },
+  {
+    "Name": "KanalD",
+    "Number": "+905323491212"
+  },
+  {
+    "Name": "DHA",
+    "Number": "+905339114040"
+  },
+  {
+    "Name": "AA",
+    "Number": "+905368663899"
+  },
+  {
+    "Name": "TGRTHaber",
+    "Number": "+905467808080"
+  },
+  {
+    "Name": "IHA",
+    "Number": "+905068898877"
+  },
+  {
+    "Name": "Kanal7",
+    "Number": "+905526440707"
+  },
+  {
+    "Name": "FOXTV",
+    "Number": "+905497800088"
+  },
+  {
+    "Name": "BeyazTV",
+    "Number": "+905493660606"
+  },
+  {
+    "Name": "StarTV",
+    "Number": "+905352032727"
+  },
+  {
+    "Name": "AHaber",
+    "Number": "+905051881000"
+  },
+  {
+    "Name": "NTVHaber",
+    "Number": "+905323063030"
+  },
+  {
+    "Name": "HalkTV",
+    "Number": "+905384063063"
+  },
+  {
+    "Name": "Ulusal",
+    "Number": "+905302912361"
+  },
+  {
+    "Name": "Kanal24",
+    "Number": "+905423672424"
+  },
+  {
+    "Name": "HaberTurk",
+    "Number": "+905383795306"
+  },
+  {
+    "Name": "TRTHaber",
+    "Number": "+905057560210"
+  },
+  {
+    "Name": "Sozcu",
+    "Number": "+905498072799"
+  },
+  {
+    "Name": "UlkeTv",
+    "Number": "+905526440707"
+  },
+  {
+    "Name": "MyNet",
+    "Number": "+905309469500"
+  },
+  {
+    "Name": "AkitTV",
+    "Number": "+905533139423"
+  },
+  {
+    "Name": "365TV",
+    "Number": "+905533139423"
+  }
+]
